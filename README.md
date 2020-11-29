@@ -2,6 +2,7 @@
 start 2-4
 finish 2-4
 start 2-7
+finish 2-7
 start 2-8
 start 2-9
 Finish 3-2
