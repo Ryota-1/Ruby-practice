@@ -1,7 +1,7 @@
 # Ruby-practice
 
 start 2-1
-finish　2-1
+finish 2-1
 start 2-4
 finish 2-4
 start 2-7
