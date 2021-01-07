@@ -7,6 +7,7 @@ finish 2-3
 start 2-4
 finish 2-4
 start 2-5
+finish 2-5
 start 2-7
 finish 2-7
 start 2-8
