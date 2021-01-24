@@ -39,4 +39,3 @@ start 4-4
 finish 4-4
 start 4-5
 finish 4-5
-start 4-6
